@@ -35,7 +35,7 @@ body{
     letter-spacing: 2px;
  
 }
-.btn{
+.btn, .clear, .delete, .equal{
     width: 87px;
     height: 70px;
     font-weight: 700;
